@@ -1,0 +1,7 @@
+{
+  "name": "@co2color/components",
+  "version": "1.0.0",
+  "main": "index.vue",
+  "author": "co2color",
+  "license": "ISC"
+}

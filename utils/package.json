@@ -1,0 +1,7 @@
+{
+  "name": "@co2color/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "co2color",
+  "license": "ISC"
+}
