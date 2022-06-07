@@ -8,9 +8,9 @@
     "utils"
   ],
   "scripts": {
-    "dev:project1": "pnpm run -C packages/project1 dev",
-    "dev:project2": "pnpm run -C packages/project2 dev",
-    "dev:project3": "pnpm run -C packages/project3 dev",
+    "project1": "pnpm run -C packages/project1 dev",
+    "project2": "pnpm run -C packages/project2 dev",
+    "project3": "pnpm run -C packages/project3 dev",
     "build:project1": "pnpm run -C packages/project1 build",
     "build:project2": "pnpm run -C packages/project2 build",
     "build:project3": "pnpm run -C packages/project2 build"
