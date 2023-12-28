@@ -18,7 +18,7 @@
   "dependencies": {
     "@co2color/components": "workspace:^1.0.0",
     "@co2color/utils": "workspace:^1.0.0",
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
     "@types/node": "^16.11.36",
